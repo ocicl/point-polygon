@@ -1,0 +1,9 @@
+* point-polygon
+
+Point inside polygon test for Common Lisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://gitlab.com/janduja/point-polygon.git |
+| commit  | fcd96107                                         |
+| systems | point-polygon                                    |
+|---------+--------------------------------------------------|
